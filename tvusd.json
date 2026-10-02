@@ -1,0 +1,6 @@
+{
+  "name": "Test Vault Dollar",
+  "symbol": "tVUSD",
+  "description": "DEVNET TEST TOKEN - has no value. Over-collateralized USD stablecoin rehearsal on Solana devnet.",
+  "image": "https://raw.githubusercontent.com/Bruceee444/tvusd-metadata/main/tvusd.png"
+}
